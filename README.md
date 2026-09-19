@@ -87,7 +87,8 @@ The original layout contains:
 - Warehouse
 - Shared material-flow paths
 
-![Original Layout](images/original_layout.png)
+(<img width="2032" height="1170" alt="original_layout" src="https://github.com/user-attachments/assets/b2eaeecb-13dd-4075-826d-5f288f155fc7" />
+)
 
 ### Observations
 
@@ -109,7 +110,8 @@ The crane is also a shared resource around the wheel-press area, so its availabi
 
 The proposed layout reorganizes the process into dedicated workstations.
 
-![Proposed Layout](images/proposed_layout.png)
+(<img width="2048" height="1125" alt="proposed_layout" src="https://github.com/user-attachments/assets/725c07f4-38a1-4acd-91d9-b3aaad6c49b5" />
+)
 
 ## Proposed Workstation Structure
 
